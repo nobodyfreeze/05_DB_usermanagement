@@ -1,5 +1,5 @@
 
-/* Lösungsbeispiel CodeLab */
+/* Loesungsbeispiel CodeLab */
 
 -- Login @admin
 mysql -u admin -p
